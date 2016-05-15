@@ -38,4 +38,4 @@ To start playing when booting up just add this lione just before the last line "
     $ sudo nano /etc/rc.local
         su -c "python /home/pi/radio.py &"
 
-** DONE **
+**DONE**
