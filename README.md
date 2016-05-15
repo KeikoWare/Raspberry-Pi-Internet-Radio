@@ -28,9 +28,9 @@ mpc stop
 sudo apt-get install -y python-rpi.gpio
 
 nano radio.py
---------------------------
- - TO DO
---------------------------
+->
+- TO DO
+<- 
 
 sudo nano /etc/rc.local
 	- add this lione just before the last line "exit 0"
